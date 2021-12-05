@@ -1,5 +1,4 @@
 - 👋 Hi, I’m rowan!
 - 👀 I’m interested in learning to code - I'm quite new to all this at the moment!
-- 🌱 I’m currently learning TypeScript, Python and C++!
-- 💞️ I’m looking to collaborate on,,, stuff?? I'm very new ehe
+- 🌱 I’m currently learning Python and Typescript!
 - 📫 How to reach me: rowamber@outlook.com
