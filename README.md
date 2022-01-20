@@ -1,4 +1,3 @@
-- 👋 Hi, I’m rowan!
-- 👀 I’m interested in learning to code - I'm quite new to all this at the moment!
-- 🌱 I’m currently learning Python and Typescript!
-- 📫 How to reach me: rowamber@outlook.com
+- 👋 hi, i’m rowan! aspiring sysadmin, linux enthusiast, and fan of lower case letters.
+
+- 📫 how to reach me: mushrowan@outlook.com
