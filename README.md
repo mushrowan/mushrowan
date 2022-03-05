@@ -1,3 +1,5 @@
-- 👋 hi, i’m rowan! i'm a computery gal. everything made out of buttons and wires is my friend.
+🌲🌳🌸🌿🌱🍃🍂🌾🌲
+
+i had this dream, our planet surviving
 
 - 📫 how to reach me: mushrowan@outlook.com
